@@ -1,0 +1,18 @@
+i know you have lot of doubt this work..so lets break all the doubt
+plz read all the statements
+
+1)what about this??
+a)this is a service platfrom to help pepole get what service he need.for example i need a service kind of travel.so i just open this site and click the travel and get some center that can serve .i will choose one.when i click a center they will show mobail number & name (layout_per.html)
+
+2)what is the layout_per.html?
+a)layout_per is the default page .when i click any service center layout_per page will be open but content will be change as which service as i choose.and i want upload data of service center to layout_per
+
+3)what you make?
+a)you only do {i want upload data of service center...you just see the admin panel you get information how can i add data}
+{and you make as i wanted upload image (maximum 6) in index.html page top }
+{and you make data will be deleted 7 days or admin can delete data.for exampe if i add data of centers .data will be delited with in 7 days or admin can delete data}
+
+
+this is all about project
+
+next work e comers site (i told you xl sheet work )
